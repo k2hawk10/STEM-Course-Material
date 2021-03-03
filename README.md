@@ -1,1 +1,1 @@
-# Fall Course Material Project
+# Introduction to github and git for Beginners STEM Program
